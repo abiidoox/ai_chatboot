@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Node.js
+node_modules/
+
+# React
+build/
+dist/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
